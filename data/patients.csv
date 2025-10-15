@@ -1,0 +1,11 @@
+patient_id,age,gender,diagnosis,days_stay
+1,45,M,Diabetes,3
+2,32,F,Hypertension,2
+3,67,M,Diabetes,5
+4,28,F,Asthma,1
+5,55,M,Hypertension,4
+6,41,F,Diabetes,3
+7,73,M,Heart Disease,7
+8,29,F,Asthma,2
+9,50,M,Diabetes,4
+10,38,F,Hypertension,3
